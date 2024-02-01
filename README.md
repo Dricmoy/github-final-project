@@ -1,14 +1,7 @@
-Which of the following commands helps you to view the commit history?
-
-1 point
-
-git commit
-
-
-git history
-
-
-git log
-
-
-git checkout
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
